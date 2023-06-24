@@ -1,5 +1,5 @@
 # /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/donuts-ukr/main/src/cover-ukr.png?raw=true)
+![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
 
 /перекладений опис фанфіка з fimfiction/
 #
