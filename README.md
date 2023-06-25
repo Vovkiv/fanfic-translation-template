@@ -11,7 +11,7 @@
 https://www.fimfiction.net/story/посилання_на_фанфік
 
 # Original cover
-https://посилання_на_фанфік
+https://посилання_на_обкладинку
 
 # Слідкувати за процесом перекладу можна тут
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
