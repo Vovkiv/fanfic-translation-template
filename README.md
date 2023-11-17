@@ -1,10 +1,10 @@
 # /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+![обкладинка](src/cover-ukr.png)
 
 /перекладений опис фанфіка з fimfiction/
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+[пдф файл](fic-ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -26,7 +26,7 @@
 
 # Контакти:
 Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
-Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
+Тоді ви можете написати мені тут: [Contacts](#contacts)
 
 # Original fic:
 https://www.fimfiction.net/story/посилання_на_фанфік
