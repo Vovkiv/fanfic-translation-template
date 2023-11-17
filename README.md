@@ -26,7 +26,7 @@
 
 # Контакти:
 Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
-Тоді ви можете написати мені тут: [Contacts](#contacts)
+Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
 https://www.fimfiction.net/story/посилання_на_фанфік
