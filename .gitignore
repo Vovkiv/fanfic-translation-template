@@ -3,3 +3,4 @@
 *.webp~
 .~lock*
 *.temp
+*.tmp
